@@ -1,12 +1,18 @@
+# Project Title
 
-
-
-
-# Sending SMS from Web
+## Sending SMS from Web
 
 A Web App that sends SMS messages using Node.js, Express, and Nexmo SMS API.
 
 ![screencast](public/images/screenshot.PNG)
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+
+### Prerequisites
+
+Node.js and NPM
 
 ## Running This Demo Locally on Your Machine
 
@@ -40,3 +46,11 @@ $ node server/index.js
 
 Go to [http://localhost:4000](http://localhost:4000) and send text messages.
 
+## Contributing
+
+Please read [CONTRIBUTING.md](https://github.com/makozi/send-sms/graphs/contributors) for details on our code of conduct, and the process for submitting pull requests to us.
+
+
+## Authors
+
+* **Marizu-Ibewiro Makozi** - *Initial work* - [Makozi](https://github.com/makozi)
